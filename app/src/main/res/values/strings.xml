@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Afraz Team</string>
     <string name="title_top_app_bar">وبلاگ افراز تیم</string>
+    <string name="menu">منو برنامه</string>
 </resources>
