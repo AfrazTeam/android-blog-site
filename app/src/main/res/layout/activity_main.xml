@@ -22,7 +22,11 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:elevation="0dp"
-                app:navigationIcon="@drawable/baseline_menu_24">
+                android:paddingEnd="8dp"
+                android:paddingStart="8dp"
+                app:navigationIcon="@drawable/menu_icon"
+                app:navigationContentDescription="@string/menu"
+                tools:ignore="RtlSymmetry">
 
                 <TextView
                     android:layout_width="wrap_content"
