@@ -2,4 +2,17 @@
     <string name="app_name">Afraz Team</string>
     <string name="title_top_app_bar">وبلاگ افراز تیم</string>
     <string name="menu">منو برنامه</string>
+    <string name="ehsan"> احسان صفری </string>
+    <string name="saman"> سامان صوفی بیرام</string>
+    <string name="hazar"> هژار قادری </string>
+    <string name="akam"> اکام نجاتی </string>
+    <string name="view_all">مشاهده همه</string>
+    <string name="title_item">TypeScript 5.2\'s New Keyword: \'using\'</string>
+    <string name="date_item">Jun 16, 2023</string>
+    <string name="dec_image_project">Image Project</string>
+    <string name="icon_headline">Icon Headline</string>
+    <string name="icon_time">Icon Time</string>
+    <string name="icon_user">Icon User</string>
+    <string name="programmer_name">Programmer Name</string>
+    <string name="twice_back">برای خروج دوباره بازگشت را بزنید</string>
 </resources>
